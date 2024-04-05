@@ -1,6 +1,6 @@
 # Ejercicios_Tema5
 
-1. (10 minutos) Construir una función recursiva que calcule la suma de los nprimeros números naturales.
+1. (10 minutos) Construir una función recursiva que calcule la suma de los n primeros números naturales.
 2. (20 minutos) Construir una función recursiva que imprima la lista denúmeros naturales comprendidos entre dos valores a y d dados por elusuario.
 3. (15 minutos) Escribir una función recursiva que devuelva la cantidad dedígitos de un número entero.
 4. (15 minutos) Escribir una función recursiva que calcule xy mediantemultiplicaciones sucesivas, siendo x e y dos números enteros.
